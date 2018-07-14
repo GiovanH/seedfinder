@@ -2,7 +2,7 @@
 
 Given a NAND drive and a private file, this finds your SD seed.
 
-
+This piggybacks off of Khangaroo's [very nice SD dumping guide](https://gist.github.com/khang06/84aabeac507fa99a676d22bb6120cea8)
 
 ## Usage:
 
